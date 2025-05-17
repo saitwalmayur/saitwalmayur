@@ -101,7 +101,6 @@
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/>
   <strong>Kung Fu Dancer</strong><br/><br/>
  <a href="https://github.com/saitwalmayur/saitwalmayur/blob/main/DayDreamStudio/com-daydreamzstudios-kungfudancer.apk" target="_blank">Detail</a><br/>
 </td>
