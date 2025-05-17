@@ -3,7 +3,8 @@ Dynamic Senior Game Developer with expertise in Unity 3D, AR/VR applications, an
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayur.saitwal@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayur.saitwal@gmail.com) <br/>
+mayur.saitwal@gmail.com<br/>
 
 # 💻 Skills:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
