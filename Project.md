@@ -1,6 +1,6 @@
 # 🎮 Projects Handled:
 
-## ![Dreambridge]
+## Dreambridge
  Senior Interaction Developer, Mumbai
 <table> <tr> 
 <!-- Game 1 -->
