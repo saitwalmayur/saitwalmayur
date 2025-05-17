@@ -106,6 +106,16 @@
 </table>
 
 ## Ace Games:
+ Jr. Game Developer, Hyderabad                                                   06/2015 - 05/2025<br/>
+
+ Developed reusable C# frameworks for Unity3D games, significantly streamlining the development process.
+ Designed and implemented various character controllers to enrich player experience and diversify gameplay
+ mechanics.
+ Programmed and integrated user interfaces (UI), menus, and core functionalities, ensuring a smooth and
+ intuitive player interaction.
+ Successfully integrated monetization plugins (e.g., AdMob, Chartboost) within games, contributing to revenue
+ generation.
+ Played a pivotal role in publishing games on Android and Windows platforms, guaranteeing successful launches.
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
