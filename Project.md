@@ -87,6 +87,16 @@
 </table>
 
 ## Day Dreamz Studio:
+
+• Independently developed multiple hyper-casual games from concept to launch, demonstrating end-to-end
+ expertise in game design, development, and successful project delivery.<br/>
+• Implemented AI features in-game characters, enriching gameplay complexity and user interaction. Championed
+ coding standards and ensured adherence to best practices, promoting code maintainability and high quality.<br/>
+• Successfully integrated diverse plugins (e.g., In-App Purchase, OneSignal, Facebook, Google Play Services,
+ Analytics, Firebase) to expand game functionalities, monetization, and features.<br/>
+• Contributed actively to the testing and QA process, ensuring high-quality game releases that meet industry
+ standards.<br/>
+• Deployed Unity games on the Unity Asset Store, potentially generating additional revenue streams<br/>
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
