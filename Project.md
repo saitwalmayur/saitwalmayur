@@ -56,10 +56,9 @@
 ##  Eduisfun Technology:
 ### Sr. Game Developer, Mumbai             <br/>
 06/2015 - 05/2025<br/>         
- Sr. Game Developer, Mumbai
- 05/2019 - 05/2025
- Designed and developed educational game leveraging Unity3D, fostering interactive learning experiences.
- Utilized REST APIs to facilitate communication between educational games and external servers, enabling data
+
+• Designed and developed educational game leveraging Unity3D, fostering interactive learning experiences.
+• Utilized REST APIs to facilitate communication between educational games and external servers, enabling data
  exchange and integration with web services. Managed project with JIRA.
 <table> <tr> 
 <!-- Game 1 -->
