@@ -7,9 +7,7 @@
 <td align="center">
   <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/>
   <strong>Digital Twin</strong><br/><br/>
-  <a href="https://www.gamepix.com/play/3d-fill" target="Project">
-    <h1>Project</h1>
-  </a>
+    <a href="https://www.linkedin.com/posts/tata-consultancy-services-north-america_tcsnycmarathon-runwithtcs-runwithtcsinnyc-ugcPost-7258484777668743169-vD4l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/>
 </td>
 <td align="center">
   <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="150"/><br/>
