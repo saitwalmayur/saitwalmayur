@@ -61,9 +61,9 @@ Dynamic Senior Game Developer with expertise in Unity 3D, AR/VR applications, an
 
 </td>
 <td align="center">
-  <img src="https://www.gamepix.com/play/step-box" width="150"/><br/>
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepbox.png" width="150"/><br/>
   <strong>Step Box</strong><br/><br/>
-  <a href="https://www.gamepix.com/play/impossible-bump-ball" target="_blank">
+  <a href="https://www.gamepix.com/play/step-box" target="_blank">
     <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
   </a><br/>
 <td align="center">
