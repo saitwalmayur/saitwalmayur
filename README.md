@@ -48,7 +48,7 @@ mayur.saitwal@gmail.com<br/>
 </tr> 
 </table>
 
-# 🎮 More Project Details:  <a href="https://github.com/saitwalmayur/saitwalmayur/blob/main/Project.md" target="_blank">Click Here</a><br/>
+# 🎮 More Projects Details:  <a href="https://github.com/saitwalmayur/saitwalmayur/blob/main/Project.md" target="_blank">Click Here</a><br/>
 
 # 🎮 Extra Work:
 <table> <tr> 
