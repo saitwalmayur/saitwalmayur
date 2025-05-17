@@ -7,7 +7,8 @@
 <td align="center">
   <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/>
   <strong>Digital Twin</strong><br/><br/>
-  <a href="https://www.gamepix.com/play/3d-fill" target="Ref">
+  <a href="https://www.gamepix.com/play/3d-fill" target="Project">
+    <h1>Project</h1>
   </a>
 </td>
 <td align="center">
