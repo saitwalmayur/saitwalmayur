@@ -57,9 +57,9 @@
 ### Sr. Game Developer, Mumbai             <br/>
 06/2015 - 05/2025<br/>         
 
-• Designed and developed educational game leveraging Unity3D, fostering interactive learning experiences.
+• Designed and developed educational game leveraging Unity3D, fostering interactive learning experiences.<br/>
 • Utilized REST APIs to facilitate communication between educational games and external servers, enabling data
- exchange and integration with web services. Managed project with JIRA.
+ exchange and integration with web services. Managed project with JIRA.<br/>
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
