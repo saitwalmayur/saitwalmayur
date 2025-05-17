@@ -67,7 +67,7 @@ Dynamic Senior Game Developer with expertise in Unity 3D, AR/VR applications, an
     <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
   </a><br/>
 <td align="center">
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="150"/><br/>
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/impo.png" width="150"/><br/>
   <strong>Impossible Bump Ball</strong><br/><br/>
   <a href="https://www.gamepix.com/play/impossible-bump-ball" target="_blank">
     <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
