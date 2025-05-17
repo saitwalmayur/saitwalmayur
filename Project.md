@@ -87,7 +87,8 @@
 </table>
 
 ## Day Dreamz Studio:
-
+### Sr. Game Developer, Hyderabad             <br/>
+06/2017 - 04/2019<br/>    
 • Independently developed multiple hyper-casual games from concept to launch, demonstrating end-to-end
  expertise in game design, development, and successful project delivery.<br/>
 • Implemented AI features in-game characters, enriching gameplay complexity and user interaction. Championed
