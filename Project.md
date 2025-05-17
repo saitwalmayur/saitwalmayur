@@ -28,6 +28,8 @@
 </table>
 
 ## Tapmyads Technologies LTD:
+### Sr. Game Developer, Mumbai             <br/>
+ 12/2019 - 04/2024<br/>     
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
