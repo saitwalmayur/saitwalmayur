@@ -2,6 +2,14 @@
 
 ## Dreambridge
  Senior Interaction Developer, Mumbai
+
+ Created applications for Apple Vision Pro using Unity and Xcode, focusing on spatial computing.
+ Created immersive AR and VR applications with cross-platform compatibility. - Integrated AI tools for enhanced
+ interactivity, including natural language processing and image recognition.
+ Collaborated with cross-functional teams to define project requirements and optimize performance.
+ Conducted user testing to ensure designs met user needs.
+ Implemented multi-user interactions in Apple Vision pro environments using Photon in Unity for real-time
+ networking and collaboration.
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
