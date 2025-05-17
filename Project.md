@@ -73,7 +73,7 @@
   <a href="https://apps.apple.com/in/app/step-gamified-learning/id1457941148" target="_blank">
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
   </a><br/>
-    <a href="https://apps.apple.com/in/app/step-gamified-learning/id1457941148" target="_blank">
+    <a href="https://www.stepapp.ai/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a><br/>
 </td>
