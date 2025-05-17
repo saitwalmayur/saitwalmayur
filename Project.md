@@ -4,11 +4,11 @@
  Senior Interaction Developer, Mumbai
 
 • Created applications for Apple Vision Pro using Unity and Xcode, focusing on spatial computing. <br/>
-• Created immersive AR and VR applications with cross-platform compatibility.
-• Integrated AI tools for enhanced interactivity, including natural language processing and image recognition.
-• Collaborated with cross-functional teams to define project requirements and optimize performance.
-• Conducted user testing to ensure designs met user needs.
-• Implemented multi-user interactions in Apple Vision Pro environments using Photon in Unity for real-time networking and collaboration.
+• Created immersive AR and VR applications with cross-platform compatibility. <br/>
+• Integrated AI tools for enhanced interactivity, including natural language processing and image recognition. <br/>
+• Collaborated with cross-functional teams to define project requirements and optimize performance. <br/>
+• Conducted user testing to ensure designs met user needs. <br/>
+• Implemented multi-user interactions in Apple Vision Pro environments using Photon in Unity for real-time networking and collaboration. <br/>
 
 <table> <tr> 
 <!-- Game 1 -->
