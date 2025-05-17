@@ -1,7 +1,8 @@
 # 🎮 Projects Handled:
 
 ## Dreambridge
- Senior Interaction Developer, Mumbai
+### Sr. Interaction Developer, Mumbai             <br/>
+ 04/2024 - Present</br>
 
 • Created applications for Apple Vision Pro using Unity and Xcode, focusing on spatial computing. <br/>
 • Created immersive AR and VR applications with cross-platform compatibility. <br/>
