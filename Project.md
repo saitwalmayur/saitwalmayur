@@ -54,6 +54,13 @@
 </table>
 
 ##  Eduisfun Technology:
+### Sr. Game Developer, Mumbai             <br/>
+06/2015 - 05/2025<br/>         
+ Sr. Game Developer, Mumbai
+ 05/2019 - 05/2025
+ Designed and developed educational game leveraging Unity3D, fostering interactive learning experiences.
+ Utilized REST APIs to facilitate communication between educational games and external servers, enabling data
+ exchange and integration with web services. Managed project with JIRA.
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
@@ -107,7 +114,7 @@
 
 ## Ace Games:
 ### Jr. Game Developer, Hyderabad             <br/>
-06/2015 - 05/2025<br/>                                      
+06/2015 - 05/2017<br/>                                      
 
 • Developed reusable C# frameworks for Unity3D games, significantly streamlining the development process.<br/>
 • Designed and implemented various character controllers to enrich player experience and diversify gameplay
