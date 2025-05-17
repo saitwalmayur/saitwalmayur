@@ -1,6 +1,6 @@
 # 🎮 Projects Handled:
 
-##  Dreambridge
+## ![Dreambridge](https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/dreambridge.png) 
  Senior Interaction Developer, Mumbai
 <table> <tr> 
 <!-- Game 1 -->
