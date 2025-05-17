@@ -40,7 +40,7 @@
   </a><br/>
 </td>
 <td align="center">
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="150"/><br/>
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/poolroyale.png" width="150"/><br/>
   <strong>Pool Royale</strong><br/><br/>
   <a href="https://www.gamepix.com/play/3d-fill" target="_blank">
     <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>
@@ -54,7 +54,7 @@
   </a><br/>
 </td>
 <td align="center">
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="150"/><br/>
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/8ballarena.png" width="150"/><br/>
   <strong>8 Ball Arena</strong><br/><br/>
   <a href="https://www.gamepix.com/play/3d-fill" target="_blank">
     <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>
