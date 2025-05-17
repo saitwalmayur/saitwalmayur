@@ -109,14 +109,14 @@
 ### Jr. Game Developer, Hyderabad             <br/>
 06/2015 - 05/2025<br/>                                      
 
-• Developed reusable C# frameworks for Unity3D games, significantly streamlining the development process.
+• Developed reusable C# frameworks for Unity3D games, significantly streamlining the development process.<br/>
 • Designed and implemented various character controllers to enrich player experience and diversify gameplay
- mechanics.
+ mechanics.<br/>
 • Programmed and integrated user interfaces (UI), menus, and core functionalities, ensuring a smooth and
- intuitive player interaction.
+ intuitive player interaction.<br/>
 • Successfully integrated monetization plugins (e.g., AdMob, Chartboost) within games, contributing to revenue
- generation.
-• Played a pivotal role in publishing games on Android and Windows platforms, guaranteeing successful launches.
+ generation.<br/>
+• Played a pivotal role in publishing games on Android and Windows platforms, guaranteeing successful launches.<br/>
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
