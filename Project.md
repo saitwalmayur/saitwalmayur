@@ -66,7 +66,7 @@
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="150"/><br/>
   <strong>Step App</strong><br/><br/>
   <a href="https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1" target="_blank">
     <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>

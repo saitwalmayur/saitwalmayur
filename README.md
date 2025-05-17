@@ -53,19 +53,14 @@ Dynamic Senior Game Developer with expertise in Unity 3D, AR/VR applications, an
 <table> <tr> 
 <!-- Game 1 -->
 <td align="center">
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="150"/><br/>
   <strong>3D Fill</strong><br/><br/>
   <a href="https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1" target="_blank">
-    <img src="https://img.shields.io/badge/Play_Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
   </a><br/>
-  <a href="https://apps.apple.com/in/app/step-gamified-learning/id1457941148" target="_blank">
-    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
-  </a><br/>
-    <a href="https://www.stepapp.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a><br/>
+
 </td>
-</tr>
+<tr>
 </table>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
