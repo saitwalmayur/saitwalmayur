@@ -106,7 +106,7 @@
 </table>
 
 ## Ace Games:
- Jr. Game Developer, Hyderabad                                                   06/2015 - 05/2025<br/>
+### Jr. Game Developer, Hyderabad                                                   06/2015 - 05/2025<br/>
 
  Developed reusable C# frameworks for Unity3D games, significantly streamlining the development process.
  Designed and implemented various character controllers to enrich player experience and diversify gameplay
