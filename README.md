@@ -171,9 +171,13 @@ mayur.saitwal@gmail.com
 
  ### **Ace Games – Jr. Game Developer | Hyderabad**  
 *Jun 2015 – May 2017*  
-- Developed **reusable C# frameworks** for Unity3D games.  
-- Designed **character controllers** and implemented UI/menus for smooth player interactions.  
-- Integrated monetization plugins (**AdMob, Chartboost**) and published games on Android and Windows platforms.   
+- **Developed reusable C# frameworks** for Unity3D, accelerating game development workflows.
+- **Designed and implemented character controllers** to enhance gameplay and player experience.
+- **Built and integrated UI systems, menus, and core game functionalities** for smooth player interaction.
+- **Integrated monetization plugins** (AdMob, Chartboost), boosting game revenue.
+- **Managed game publishing** on Android and Windows, ensuring successful launches.
+
+
 
 <table>
  <tr> 
