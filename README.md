@@ -68,22 +68,55 @@ mayur.saitwal@gmail.com
 - Implemented **real-time multi-user interactions** in Apple Vision Pro using Photon and Unity.  
 
 ## 🎮 Projects
-<table> <tr> <!-- Game 1 --> <td align="center"> <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> <strong>Digital Twin</strong><br/><br/> <a href="https://www.linkedin.com/posts/tata-consultancy-services-north-america_tcsnycmarathon-runwithtcs-runwithtcsinnyc-ugcPost-7258484777668743169-vD4l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> </td> <td align="center"> <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> <strong>CNC Machine</strong><br/><br/> <a href="https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> </td> </tr> </table>
+<table>
+ <tr> 
+
+  <td align="center"> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> 
+  <strong>Digital Twin</strong><br/><br/> 
+  <a href="https://www.linkedin.com/posts/tata-consultancy-services-north-america_tcsnycmarathon-runwithtcs-runwithtcsinnyc-ugcPost-7258484777668743169-vD4l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> 
+  </td> 
+
+  <td align="center"> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> 
+  <strong>CNC Machine</strong><br/><br/> 
+  <a href="https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> 
+  </td>
+
+ </tr> 
+</table>
 
 
-
-<!-- ### **Tapmyads Technologies LTD – Sr. Game Developer | Mumbai**  
+ ### **Tapmyads Technologies LTD – Sr. Game Developer | Mumbai**  
 *Dec 2019 – Apr 2024*  
 - Designed and developed **multiplayer games** with Photon and Nakama.  
 - Managed game data via **PlayFab**, including player profiles, inventory, and progression.  
 - Developed 3D applications across **Xcode, Android Studio, Unreal Engine, Three.js, and React Native**.  
 - Improved visuals through **custom shaders** and integrated **RESTful APIs** for dynamic content.  
 
+<table>
+ <tr> 
+ 
+  <td align="center"> 
+  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/>  -->
+  <strong>Digital Twin</strong><br/><br/> 
+  <a href="https://avataryug.com/showcase" target="_blank">Detail</a><br/> 
+  </td> 
+
+  <td align="center"> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> 
+  <strong>CNC Machine</strong><br/><br/> 
+  <a href="https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> 
+  </td>
+
+ </tr> 
+</table>
+
 ### **Eduisfun Technology – Sr. Game Developer | Mumbai**  
 *May 2019 – Nov 2019*  
 - Developed educational games in **Unity3D**, enabling interactive learning experiences.  
 - Integrated **REST APIs** for data exchange with external servers.  
-- Managed project tasks using **JIRA**.  
+- Managed project tasks using **JIRA**.   
 
 ### **Day Dreamz Studio – Sr. Game Developer | Hyderabad**  
 *Jun 2017 – Apr 2019*  
@@ -92,11 +125,11 @@ mayur.saitwal@gmail.com
 - Integrated diverse plugins like **In-App Purchase, OneSignal, Facebook, Google Play Services, Analytics, Firebase**.  
 - Deployed Unity games on the **Unity Asset Store**.  
 
-### **Ace Games – Jr. Game Developer | Hyderabad**  
+ ### **Ace Games – Jr. Game Developer | Hyderabad**  
 *Jun 2015 – May 2017*  
 - Developed **reusable C# frameworks** for Unity3D games.  
 - Designed **character controllers** and implemented UI/menus for smooth player interactions.  
-- Integrated monetization plugins (**AdMob, Chartboost**) and published games on Android and Windows platforms.   -->
+- Integrated monetization plugins (**AdMob, Chartboost**) and published games on Android and Windows platforms.   
 
 
 
