@@ -87,14 +87,6 @@ mayur.saitwal@gmail.com
 
 </div>
 
-<!-- Hover effect -->
-<style>
-div > div:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  border-color: #007BFF;
-}
-</style>
 
 
 <!-- ### **Tapmyads Technologies LTD – Sr. Game Developer | Mumbai**  
