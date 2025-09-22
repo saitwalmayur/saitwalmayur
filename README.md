@@ -158,17 +158,59 @@ mayur.saitwal@gmail.com
 - **Deployed Unity games on the Unity Asset Store**, generating potential additional revenue streams.
 
 
-
 <table>
  <tr> 
  
   <td align="center"> 
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/> 
-  <strong>StepApp</strong><br/><br/> 
-  <a href="https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&hl=en_IN" target="_blank">Detail</a><br/> 
+  <strong>Stickman Apple Shooter</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Stickman-Apple-Shooter/dp/B0756VV9ZB" target="_blank">Detail</a><br/> 
   </td> 
 
+  <td align="center"> 
+  <strong>Dragon TrialsDragon Trials</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Dragon-Trials/dp/B072XQ6DXQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-2" target="_blank">Detail</a><br/> 
+  </td> 
 
+  
+  <td align="center"> 
+  <strong>Talking Santa GiftsTalking Santa Gifts</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Talking-Santa-Gifts/dp/B0752PCQ99/ref=sr_1_4?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-4" target="_blank">Detail</a><br/> 
+  </td> 
+
+  <td align="center"> 
+  <strong>Kung Fu DancerKung Fu Dancer</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Kung-Fu-Dancer/dp/B073SRW7W4/ref=sr_1_6?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-6" target="_blank">Detail</a><br/> 
+  </td> 
+
+  <td align="center"> 
+  <strong>Wave RacerWave Racer</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Wave-Racer/dp/B07517JT9M/ref=sr_1_7?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-7" target="_blank">Detail</a><br/> 
+  </td>
+
+  <td align="center"> 
+  <strong>Flotus!</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Flotus/dp/B074DWZGCQ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-8" target="_blank">Detail</a><br/> 
+  </td> 
+
+ <td align="center"> 
+  <strong>Klear</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Klear/dp/B0756WSSRX/ref=sr_1_16?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-16" target="_blank">Detail</a><br/> 
+  </td> 
+
+   <td align="center"> 
+  <strong>Angry Shark Racing</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Angry-Shark-Racing/dp/B0751CJ8X8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-18" target="_blank">Detail</a><br/> 
+  </td> 
+
+  <td align="center"> 
+  <strong>Thirsty Vampire</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Thirsty-Vampire/dp/B073WWYBBD/ref=sr_1_20?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-20" target="_blank">Detail</a><br/> 
+  </td> 
+
+  <td align="center"> 
+  <strong>Snake Ballz 2</strong><br/><br/> 
+  <a href="https://www.amazon.com/DayDreamz-Studio-Snake-Ballz-2/dp/B075D4YHJZ/ref=sr_1_15?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-15" target="_blank">Detail</a><br/> 
+  </td> 
  </tr> 
 </table>
 
