@@ -68,24 +68,7 @@ mayur.saitwal@gmail.com
 - Implemented **real-time multi-user interactions** in Apple Vision Pro using Photon and Unity.  
 
 ## 🎮 Projects
-
-<div style="display: flex; gap: 30px;">
-
-  <div style="text-align: center; border: 2px solid #ccc; border-radius: 12px; padding: 20px; width: 150px; transition: transform 0.3s, box-shadow 0.3s;">
-    <strong>Digital Twin</strong><br/>
-    <a href="https://www.linkedin.com/posts/tata-consultancy-services-north-america_tcsnycmarathon-runwithtcs-runwithtcsinnyc-ugcPost-7258484777668743169-vD4l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY">
-      <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="100"/>
-    </a>
-  </div>
-
-  <div style="text-align: center; border: 2px solid #ccc; border-radius: 12px; padding: 20px; width: 150px; transition: transform 0.3s, box-shadow 0.3s;">
-    <strong>CNC Machine</strong><br/>
-    <a href="https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY">
-      <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="100"/>
-    </a>
-  </div>
-
-</div>
+<table> <tr> <!-- Game 1 --> <td align="center"> <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> <strong>Digital Twin</strong><br/><br/> <a href="https://www.linkedin.com/posts/tata-consultancy-services-north-america_tcsnycmarathon-runwithtcs-runwithtcsinnyc-ugcPost-7258484777668743169-vD4l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> </td> <td align="center"> <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> <strong>CNC Machine</strong><br/><br/> <a href="https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> </td> </tr> </table>
 
 
 
