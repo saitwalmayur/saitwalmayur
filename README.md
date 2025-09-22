@@ -69,10 +69,23 @@ mayur.saitwal@gmail.com
 
 ## 🎮 Projects
 
-| Project | Preview | Details |
-|---------|---------|---------|
-| **Digital Twin** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="100"/> | [View](https://www.linkedin.com/posts/tata-consultancy-services-north-america_tcsnycmarathon-runwithtcs-runwithtcsinnyc-ugcPost-7258484777668743169-vD4l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY) |
-| **CNC Machine** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="100"/> | [View](https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY) |
+<div style="display: flex; gap: 40px;">
+
+  <div style="text-align: center;">
+    <strong>Digital Twin</strong><br/>
+    <a href="https://www.linkedin.com/posts/tata-consultancy-services-north-america_tcsnycmarathon-runwithtcs-runwithtcsinnyc-ugcPost-7258484777668743169-vD4l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY">
+      <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="100"/>
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <strong>CNC Machine</strong><br/>
+    <a href="https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY">
+      <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="100"/>
+    </a>
+  </div>
+
+</div>
 
 
 <!-- ### **Tapmyads Technologies LTD – Sr. Game Developer | Mumbai**  
