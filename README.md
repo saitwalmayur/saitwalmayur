@@ -99,7 +99,7 @@ mayur.saitwal@gmail.com
  
   <td align="center"> 
   <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/>  -->
-  <strong>Digital Twin</strong><br/><br/> 
+  <strong>Avataryug</strong><br/><br/> 
   <a href="https://avataryug.com/showcase" target="_blank">Detail</a><br/> 
   </td> 
 
