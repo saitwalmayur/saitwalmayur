@@ -98,16 +98,28 @@ mayur.saitwal@gmail.com
  <tr> 
  
   <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/>  -->
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/AYlogo.png" width="150"/><br/> 
   <strong>Avataryug</strong><br/><br/> 
   <a href="https://avataryug.com/showcase" target="_blank">Detail</a><br/> 
   </td> 
 
   <td align="center"> 
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/applevision.png" width="150"/><br/> 
-  <strong>CNC Machine</strong><br/><br/> 
-  <a href="https://www.linkedin.com/posts/thapasjoseph_augmentedreality-virtualreality-spatialcomputing-activity-7295082810858524673-hpVv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAduOT4BroteUiiLGXBzeJpj6T4oXuEQ0VY" target="_blank">Detail</a><br/> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/poolroyale.png" width="150"/><br/> 
+  <strong>Pool Royale</strong><br/><br/> 
+  <a href="https://pool-royale-5r7.en.softonic.com/android?ex=RAMP-3507.3&rex=true" target="_blank">Detail</a><br/> 
   </td>
+
+  <td align="center"> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/poolroyale.png" width="150"/><br/> 
+  <strong>Billiards Pool Arena</strong><br/><br/> 
+  <a href="https://billiards-pool-arena.en.softonic.com/android?ex=RAMP-3507.3&rex=true" target="_blank">Detail</a><br/> 
+  </td>
+
+   <!-- <td align="center"> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/8ballarena.png" width="150"/><br/> 
+  <strong>8 Ball Arena</strong><br/><br/> 
+  <a href="https://8-ball-arena.en.softonic.com/android?ex=RAMP-3507.3&rex=true" target="_blank">Detail</a><br/> 
+  </td> -->
 
  </tr> 
 </table>
