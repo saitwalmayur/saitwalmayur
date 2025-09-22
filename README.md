@@ -150,10 +150,13 @@ mayur.saitwal@gmail.com
 
 ### **Day Dreamz Studio – Sr. Game Developer | Hyderabad**  
 *Jun 2017 – Apr 2019*  
-- Independently developed multiple **hyper-casual games** from concept to launch.  
-- Implemented **AI features in-game characters** to enhance gameplay.  
-- Integrated diverse plugins like **In-App Purchase, OneSignal, Facebook, Google Play Services, Analytics, Firebase**.  
-- Deployed Unity games on the **Unity Asset Store**.  
+- **Independently developed multiple hyper-casual games** from concept to launch, demonstrating end-to-end expertise in game design, development, and delivery.
+- **Implemented AI features in game characters**, enhancing gameplay complexity and user interaction.
+- **Championed coding standards** and best practices, ensuring maintainable and high-quality code.
+- **Integrated diverse plugins** (In-App Purchase, OneSignal, Facebook, Google Play Services, Analytics, Firebase) to expand game functionalities and monetization.
+- **Contributed to testing and QA**, ensuring high-quality releases that meet industry standards.
+- **Deployed Unity games on the Unity Asset Store**, generating potential additional revenue streams.
+
 
 
 <table>
@@ -176,7 +179,6 @@ mayur.saitwal@gmail.com
 - **Built and integrated UI systems, menus, and core game functionalities** for smooth player interaction.
 - **Integrated monetization plugins** (AdMob, Chartboost), boosting game revenue.
 - **Managed game publishing** on Android and Windows, ensuring successful launches.
-
 
 
 <table>
