@@ -45,6 +45,13 @@ mayur.saitwal@gmail.com
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+### Analytics
+![Game Analytics](https://img.shields.io/badge/Game%20Analytics-%23313131.svg?style=for-the-badge&logo=chartjs&logoColor=white)
+![Kochava](https://img.shields.io/badge/Kochava-%232E8B57.svg?style=for-the-badge&logo=kochava&logoColor=white)
+![Bytebrew](https://img.shields.io/badge/Bytebrew-%230081FF.svg?style=for-the-badge&logo=bytebrew&logoColor=white)
+![Unity Analytics](https://img.shields.io/badge/Unity%20Analytics-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
 ---
 
 ## 🎮 Project Portfolio
