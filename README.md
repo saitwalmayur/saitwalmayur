@@ -89,10 +89,14 @@ mayur.saitwal@gmail.com
 
  ### **Tapmyads Technologies LTD – Sr. Game Developer | Mumbai**  
 *Dec 2019 – Apr 2024*  
-- Designed and developed **multiplayer games** with Photon and Nakama.  
-- Managed game data via **PlayFab**, including player profiles, inventory, and progression.  
-- Developed 3D applications across **Xcode, Android Studio, Unreal Engine, Three.js, and React Native**.  
-- Improved visuals through **custom shaders** and integrated **RESTful APIs** for dynamic content.  
+- **Led design and development of multiplayer games** using Photon and Nakama for seamless online experiences.
+- **Owned technical projects**, including component design, development, and maintenance.
+- **Managed game data with PlayFab**, handling player profiles, inventory, and progression.
+- **Developed 3D applications** across multiple platforms (Xcode, Android Studio, Unreal Engine, Three.js, React Native).
+- **Streamlined project delivery and QA** using Azure DevOps and version control tools (SourceTree, GitHub, BitBucket) for efficient collaboration.
+- **Enhanced visuals with custom shaders** across engines (Unity, Unreal Engine) and integrated RESTful APIs for dynamic content.
+- **Created deployment packages** (Swift, Android Studio) and extended functionality using plugins in Unity and Unreal Engine.
+
 
 
 ## 🎮 Projects
