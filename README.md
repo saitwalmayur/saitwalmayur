@@ -98,7 +98,7 @@ mayur.saitwal@gmail.com
  <tr> 
  
   <td align="center"> 
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/AYlogo.png" width="150"/><br/> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/AYlogo.webp" width="150"/><br/> 
   <strong>Avataryug</strong><br/><br/> 
   <a href="https://avataryug.com/showcase" target="_blank">Detail</a><br/> 
   </td> 
@@ -110,7 +110,7 @@ mayur.saitwal@gmail.com
   </td>
 
   <td align="center"> 
-  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/poolroyale.png" width="150"/><br/> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/8ballarena.png" width="150"/><br/> 
   <strong>Billiards Pool Arena</strong><br/><br/> 
   <a href="https://billiards-pool-arena.en.softonic.com/android?ex=RAMP-3507.3&rex=true" target="_blank">Detail</a><br/> 
   </td>
