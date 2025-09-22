@@ -51,6 +51,11 @@ mayur.saitwal@gmail.com
 ![Bytebrew](https://img.shields.io/badge/Bytebrew-%230081FF.svg?style=for-the-badge&logo=bytebrew&logoColor=white)
 ![Unity Analytics](https://img.shields.io/badge/Unity%20Analytics-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+## 🌟 Soft Skills
+
+![Leadership](https://img.shields.io/badge/Leadership-%23FF6F61.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Mentorship](https://img.shields.io/badge/Mentorship-%23F7B801.svg?style=for-the-badge&logo=medium&logoColor=white)
+
 
 ---
 
