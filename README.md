@@ -94,6 +94,9 @@ mayur.saitwal@gmail.com
 - Developed 3D applications across **Xcode, Android Studio, Unreal Engine, Three.js, and React Native**.  
 - Improved visuals through **custom shaders** and integrated **RESTful APIs** for dynamic content.  
 
+
+## 🎮 Projects
+
 <table>
  <tr> 
  
@@ -129,6 +132,21 @@ mayur.saitwal@gmail.com
 - Developed educational games in **Unity3D**, enabling interactive learning experiences.  
 - Integrated **REST APIs** for data exchange with external servers.  
 - Managed project tasks using **JIRA**.   
+
+## 🎮 Projects
+
+<table>
+ <tr> 
+ 
+  <td align="center"> 
+  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/> 
+  <strong>StepApp</strong><br/><br/> 
+  <a href="https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&hl=en_IN" target="_blank">Detail</a><br/> 
+  </td> 
+
+
+ </tr> 
+</table>
 
 ### **Day Dreamz Studio – Sr. Game Developer | Hyderabad**  
 *Jun 2017 – Apr 2019*  
