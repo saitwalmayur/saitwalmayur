@@ -318,9 +318,8 @@ mayur.saitwal@gmail.com
 
 ---
 
-## 📈 Visitors
-[![](https://visitcount.itsvg.in/api?id=saitwalmayur&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### 📈 Profile Views
+![](https://komarev.com/ghpvc/?username=saitwalmayur&label=Mayur's+Profile+Hits&style=flat-square&color=239120)
 ---
 
 ✨ Proudly crafted with passion for **games, immersive tech, and interactive experiences**.
