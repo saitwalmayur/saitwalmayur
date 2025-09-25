@@ -316,6 +316,13 @@ mayur.saitwal@gmail.com
 | **Impossible Bump Ball** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/impo.png" width="100"/> | [Play](https://www.gamepix.com/play/impossible-bump-ball) |
 | **Snake Color** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/snakecolor.png" width="100"/> | [Play](https://www.gamepix.com/play/snake-color) |
 
+## 🎮 Extra Work
+
+| Project | Description | Platform/Link |
+| :--- | :--- | :--- |
+| **Digital Twin (Vision Pro)** |  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="100"/> |[Play](https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1) |
+
+
 ---
 
 ### 📈 Profile Views
