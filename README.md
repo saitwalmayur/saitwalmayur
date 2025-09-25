@@ -318,9 +318,9 @@ mayur.saitwal@gmail.com
 
 ## 🎮 Extra Work
 
-| Project | Description | Platform/Link |
+| Project | Icon | Platform/Link |
 | :--- | :--- | :--- |
-| **Digital Twin (Vision Pro)** |  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="100"/> |[Play](https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1) |
+| **3D Fill** |  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="200"/> |[Play](https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1) |
 
 
 ---
