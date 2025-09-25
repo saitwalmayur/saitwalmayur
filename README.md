@@ -307,7 +307,7 @@ mayur.saitwal@gmail.com
 
 ---
 
-## 🎮 WebGL & Extra Work
+## 🎮 Extra Work
 
 | Project | Preview | Play |
 |---------|---------|------|
@@ -315,13 +315,6 @@ mayur.saitwal@gmail.com
 | **Step Box** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepbox.png" width="100"/> | [Play](https://www.gamepix.com/play/step-box) |
 | **Impossible Bump Ball** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/impo.png" width="100"/> | [Play](https://www.gamepix.com/play/impossible-bump-ball) |
 | **Snake Color** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/snakecolor.png" width="100"/> | [Play](https://www.gamepix.com/play/snake-color) |
-
-## 🎮 Extra Work
-
-| Project | Icon | Platform/Link |
-| :--- | :--- | :--- |
-| **3D Fill** |  <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="200"/> |[Play](https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1) |
-
 
 ---
 
