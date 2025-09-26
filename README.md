@@ -180,50 +180,18 @@ mayur.saitwal@gmail.com
   <a href="https://www.amazon.com/DayDreamz-Studio-Talking-Santa-Gifts/dp/B0752PCQ99/ref=sr_1_4?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-4" target="_blank">Detail</a><br/> 
   </td> 
 
-  <td align="center"> 
-  <strong>Kung Fu DancerKung Fu Dancer</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Kung-Fu-Dancer/dp/B073SRW7W4/ref=sr_1_6?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-6" target="_blank">Detail</a><br/> 
-  </td> 
 
-  <td align="center"> 
-  <strong>Wave RacerWave Racer</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Wave-Racer/dp/B07517JT9M/ref=sr_1_7?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-7" target="_blank">Detail</a><br/> 
-  </td>
 
-  <td align="center"> 
-  <strong>Flotus!</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Flotus/dp/B074DWZGCQ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-8" target="_blank">Detail</a><br/> 
-  </td> 
-
- <td align="center"> 
-  <strong>Klear</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Klear/dp/B0756WSSRX/ref=sr_1_16?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-16" target="_blank">Detail</a><br/> 
-  </td> 
-
-   <td align="center"> 
-  <strong>Angry Shark Racing</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Angry-Shark-Racing/dp/B0751CJ8X8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-18" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <strong>Thirsty Vampire</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Thirsty-Vampire/dp/B073WWYBBD/ref=sr_1_20?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-20" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <strong>Snake Ballz 2</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Snake-Ballz-2/dp/B075D4YHJZ/ref=sr_1_15?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-15" target="_blank">Detail</a><br/> 
-  </td> 
  </tr> 
 </table>
 
 | Project| Play | Project| Play |
 |--------|------|--------|------| 
 | **Snake Ballz 2**  | [Play](https://www.amazon.com/DayDreamz-Studio-Snake-Ballz-2/dp/B075D4YHJZ/ref=sr_1_15?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-15) |
-| **Bottle Shooter**   | [Play](https://assetstore.unity.com/packages/templates/bottle-shooter-89934) | **Ace Bike Stunts**  | [Play](https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565) |
-| **Ace Fighter**      | [Play](https://assetstore.unity.com/packages/templates/ace-fighter-88101) | **Krishna Murari Run** | [Play](https://krishna-murari-run.en.softonic.com/android) |
-| **Strike A Can** | [Play](https://strike-a-can.en.softonic.com/android) | **City Hot Wheels Racer** | [Play](https://city-hot-wheels-racer.en.softonic.com/android) |
-| **Jet Boat Rush** | [Play](https://jet-boat-rush.en.softonic.com/android) | **Rocket Escape** | [Play](https://assetstore.unity.com/packages/templates/rocket-escape-78174) |
+| **Thirsty Vampire**   | [Play](https://www.amazon.com/DayDreamz-Studio-Thirsty-Vampire/dp/B073WWYBBD/ref=sr_1_20?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-20) |
+| *Angry Shark Racing**      | [Play](https://www.amazon.com/DayDreamz-Studio-Angry-Shark-Racing/dp/B0751CJ8X8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-18) |
+| **Klear** | [Play](https://www.amazon.com/DayDreamz-Studio-Klear/dp/B0756WSSRX/ref=sr_1_16?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-16) | **Flotus** | [Play](https://www.amazon.com/DayDreamz-Studio-Flotus/dp/B074DWZGCQ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-8) |
+| **Wave RacerWave Racer** | [Play](https://www.amazon.com/DayDreamz-Studio-Wave-Racer/dp/B07517JT9M/ref=sr_1_7?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-7) | **Kung Fu DancerKung Fu Dancer** | [Play](https://www.amazon.com/DayDreamz-Studio-Kung-Fu-Dancer/dp/B073SRW7W4/ref=sr_1_6?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-6) |
 
 
  ### **Ace Games – Jr. Game Developer | Hyderabad**  
