@@ -228,7 +228,7 @@ mayur.saitwal@gmail.com
 
 ## 🎮 Extra Work
 
-| Project | Preview | Play |
+| Project  | Play |
 |---------|---------|------|
 | **Nano Ninja Jump**  | [Play](https://assetstore.unity.com/packages/templates/nano-ninja-jump-67653) |
 | **Cycle Stunts**     | [Play](https://assetstore.unity.com/packages/templates/cycle-stunts-88274) |
