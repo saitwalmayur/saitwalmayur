@@ -1,5 +1,5 @@
 # 💫 About Me
- Senior Unity Game Developer with 10 years of experience designing and delivering 2D/3D games, AR/VR applications,
+ Senior Game Developer with 10 years of experience designing and delivering 2D/3D games, AR/VR applications,
  and real-time multiplayer systems across mobile, PC, and console. Strong expertise in C#, Unity architecture, physics,
  animation, UI, shaders, and scene management, with proven ability to build optimized pipelines and deployment
  processes. Recognized for collaborative problem-solving, mentoring junior developers, and aligning execution with
