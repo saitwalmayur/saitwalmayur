@@ -217,6 +217,15 @@ mayur.saitwal@gmail.com
  </tr> 
 </table>
 
+| Project| Play | Project| Play |
+|--------|------|--------|------| 
+| **Snake Ballz 2**  | [Play](https://www.amazon.com/DayDreamz-Studio-Snake-Ballz-2/dp/B075D4YHJZ/ref=sr_1_15?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-15) |
+| **Bottle Shooter**   | [Play](https://assetstore.unity.com/packages/templates/bottle-shooter-89934) | **Ace Bike Stunts**  | [Play](https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565) |
+| **Ace Fighter**      | [Play](https://assetstore.unity.com/packages/templates/ace-fighter-88101) | **Krishna Murari Run** | [Play](https://krishna-murari-run.en.softonic.com/android) |
+| **Strike A Can** | [Play](https://strike-a-can.en.softonic.com/android) | **City Hot Wheels Racer** | [Play](https://city-hot-wheels-racer.en.softonic.com/android) |
+| **Jet Boat Rush** | [Play](https://jet-boat-rush.en.softonic.com/android) | **Rocket Escape** | [Play](https://assetstore.unity.com/packages/templates/rocket-escape-78174) |
+
+
  ### **Ace Games – Jr. Game Developer | Hyderabad**  
 *Jun 2015 – May 2017*  
 - **Developed reusable C# frameworks** for Unity3D, accelerating game development workflows.
