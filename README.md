@@ -228,18 +228,13 @@ mayur.saitwal@gmail.com
 
 ## 🎮 Work at Ace Games
 
-| Project| Play |
-|--------|------|
-| **Nano Ninja Jump**  | [Play](https://assetstore.unity.com/packages/templates/nano-ninja-jump-67653) |
-| **Cycle Stunts**     | [Play](https://assetstore.unity.com/packages/templates/cycle-stunts-88274) |
-| **Bottle Shooter**   | [Play](https://assetstore.unity.com/packages/templates/bottle-shooter-89934) |
-| **Ace Bike Stunts**  | [Play](https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565) |
-| **Ace Fighter**      | [Play](https://assetstore.unity.com/packages/templates/ace-fighter-88101) |
-| **Krishna Murari Run** | [Play](https://krishna-murari-run.en.softonic.com/android) |
-| **Strike A Can** | [Play](https://strike-a-can.en.softonic.com/android) |
-| **City Hot Wheels Racer** | [Play](https://city-hot-wheels-racer.en.softonic.com/android) |
-| **Jet Boat Rush** | [Play](https://jet-boat-rush.en.softonic.com/android) |
-| **Rocket Escape** | [Play](https://assetstore.unity.com/packages/templates/rocket-escape-78174) |
+| Project| Play | Project| Play |
+|--------|------|--------|------| 
+| **Nano Ninja Jump**  | [Play](https://assetstore.unity.com/packages/templates/nano-ninja-jump-67653)  | **Cycle Stunts**     | [Play](https://assetstore.unity.com/packages/templates/cycle-stunts-88274) |
+| **Bottle Shooter**   | [Play](https://assetstore.unity.com/packages/templates/bottle-shooter-89934) | **Ace Bike Stunts**  | [Play](https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565) |
+| **Ace Fighter**      | [Play](https://assetstore.unity.com/packages/templates/ace-fighter-88101) | **Krishna Murari Run** | [Play](https://krishna-murari-run.en.softonic.com/android) |
+| **Strike A Can** | [Play](https://strike-a-can.en.softonic.com/android) | **City Hot Wheels Racer** | [Play](https://city-hot-wheels-racer.en.softonic.com/android) |
+| **Jet Boat Rush** | [Play](https://jet-boat-rush.en.softonic.com/android) | **Rocket Escape** | [Play](https://assetstore.unity.com/packages/templates/rocket-escape-78174) |
 
 
 <!-- [📂 More Projects](https://github.com/saitwalmayur/saitwalmayur/blob/main/Project.md) -->
