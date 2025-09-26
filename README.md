@@ -161,16 +161,6 @@ mayur.saitwal@gmail.com
 - **Deployed Unity games on the Unity Asset Store**, generating potential additional revenue streams.
 
 
-<table>
- <tr> 
- 
-  <td align="center"> 
-  <strong>Stickman Apple Shooter</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Stickman-Apple-Shooter/dp/B0756VV9ZB" target="_blank">Detail</a><br/> 
-  </td> 
-
- </tr> 
-</table>
 
 | Project| Detail | Project| Detail |
 |--------|------|--------|------| 
