@@ -226,80 +226,20 @@ mayur.saitwal@gmail.com
 - **Managed game publishing** on Android and Windows, ensuring successful launches.
 
 
-<table>
- <tr> 
- 
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Nano Ninja Jump</strong><br/><br/> 
-  <a href="https://assetstore.unity.com/packages/templates/nano-ninja-jump-67653" target="_blank">Detail</a><br/> 
-  </td> 
+## 🎮 Extra Work
 
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Cycle Stunts</strong><br/><br/> 
-  <a href="https://assetstore.unity.com/packages/templates/cycle-stunts-88274" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Bottle Shooter</strong><br/><br/> 
-  <a href="https://assetstore.unity.com/packages/templates/bottle-shooter-89934" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Ace Bike Stunts</strong><br/><br/> 
-  <a href="https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Ace Fighter</strong><br/><br/> 
-  <a href="https://assetstore.unity.com/packages/templates/ace-fighter-88101" target="_blank">Detail</a><br/> 
-  </td> 
-
- </tr> 
-</table>
-
-<table>
- <tr> 
- 
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Krishna Murari Run</strong><br/><br/> 
-  <a href="https://krishna-murari-run.en.softonic.com/android" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Strike A Can</strong><br/><br/> 
-  <a href="https://strike-a-can.en.softonic.com/android" target="_blank">Detail</a><br/> 
-  </td> 
-
-
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>City Hot Wheels Racer</strong><br/><br/> 
-  <a href="https://city-hot-wheels-racer.en.softonic.com/android" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Jet Boat Rush</strong><br/><br/> 
-  <a href="https://jet-boat-rush.en.softonic.com/android" target="_blank">Detail</a><br/> 
-  </td> 
-
-  <td align="center"> 
-  <!-- <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepapp.webp" width="150"/><br/>  -->
-  <strong>Rocket Escape</strong><br/><br/> 
-  <a href="https://assetstore.unity.com/packages/templates/rocket-escape-78174" target="_blank">Detail</a><br/> 
-  </td> 
-  
-
- </tr> 
-</table>
-
+| Project | Preview | Play |
+|---------|---------|------|
+| **Nano Ninja Jump**  | [Play](https://assetstore.unity.com/packages/templates/nano-ninja-jump-67653) |
+| **Cycle Stunts**     | [Play](https://assetstore.unity.com/packages/templates/cycle-stunts-88274) |
+| **Bottle Shooter**   | [Play](https://assetstore.unity.com/packages/templates/bottle-shooter-89934) |
+| **Ace Bike Stunts**  | [Play](https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565) |
+| **Ace Fighter**      | [Play](https://assetstore.unity.com/packages/templates/ace-fighter-88101) |
+| **Krishna Murari Run** | [Play](https://krishna-murari-run.en.softonic.com/android) |
+| **Strike A Can** | [Play](https://strike-a-can.en.softonic.com/android) |
+| **City Hot Wheels Racer** | [Play](https://city-hot-wheels-racer.en.softonic.com/android) |
+| **Jet Boat Rush** | [Play](https://jet-boat-rush.en.softonic.com/android) |
+| **Rocket Escape** | [Play](https://assetstore.unity.com/packages/templates/rocket-escape-78174) |
 
 
 <!-- [📂 More Projects](https://github.com/saitwalmayur/saitwalmayur/blob/main/Project.md) -->
