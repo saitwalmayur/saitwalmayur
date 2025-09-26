@@ -169,19 +169,6 @@ mayur.saitwal@gmail.com
   <a href="https://www.amazon.com/DayDreamz-Studio-Stickman-Apple-Shooter/dp/B0756VV9ZB" target="_blank">Detail</a><br/> 
   </td> 
 
-  <td align="center"> 
-  <strong>Dragon TrialsDragon Trials</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Dragon-Trials/dp/B072XQ6DXQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-2" target="_blank">Detail</a><br/> 
-  </td> 
-
-  
-  <td align="center"> 
-  <strong>Talking Santa GiftsTalking Santa Gifts</strong><br/><br/> 
-  <a href="https://www.amazon.com/DayDreamz-Studio-Talking-Santa-Gifts/dp/B0752PCQ99/ref=sr_1_4?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-4" target="_blank">Detail</a><br/> 
-  </td> 
-
-
-
  </tr> 
 </table>
 
@@ -191,6 +178,12 @@ mayur.saitwal@gmail.com
 | **Angry Shark Racing**      | [Detail](https://www.amazon.com/DayDreamz-Studio-Angry-Shark-Racing/dp/B0751CJ8X8/ref=sr_1_18?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-18) |
 | **Klear** | [Detail](https://www.amazon.com/DayDreamz-Studio-Klear/dp/B0756WSSRX/ref=sr_1_16?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-16) | **Flotus** | [Detail](https://www.amazon.com/DayDreamz-Studio-Flotus/dp/B074DWZGCQ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-8) |
 | **Wave RacerWave Racer** | [Detail](https://www.amazon.com/DayDreamz-Studio-Wave-Racer/dp/B07517JT9M/ref=sr_1_7?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-7) | **Kung Fu DancerKung Fu Dancer** | [Detail](https://www.amazon.com/DayDreamz-Studio-Kung-Fu-Dancer/dp/B073SRW7W4/ref=sr_1_6?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-6) |
+
+
+| **Talking Santa GiftsTalking Santa Gifts** | [Detail](https://www.amazon.com/DayDreamz-Studio-Talking-Santa-Gifts/dp/B0752PCQ99/ref=sr_1_4?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-4) | **Dragon TrialsDragon Trials** | [Detail](https://www.amazon.com/DayDreamz-Studio-Dragon-Trials/dp/B072XQ6DXQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HhCCP08rZ_VyvACQb-9AvTlct2KaCT3oDp2CnSUKCKq0K8qRp8rxBni43dXl-IKDjzsTxYp1tCxU2oDfzm5cibJPYMsZbDuXJjBTblEMhJkmSeWCsJ7yvV6a_Y_FJvY1JTazbTojS-vZMuNZjRanyQDCPH8k_sF9lfNnjacgnC9RCvXTGVwOH4pd5NrHwznjADMgy2CuXnrW8QGPPeFvsntww1mjUlXAluiDFihKH2lKqESrBRha_cGlo3ug1_UvcEJzVTNGp-kebOmLDIf-HPL9wHjqF95F0iOYJQIG0y0.aGWIuRUdbgFXHawKMeNpsBSGjcNxrMbcIKoImFCMw54&dib_tag=se&qid=1758568993&refinements=p_4%3ADayDreamz+Studio&s=mobile-apps&search-type=ss&sr=1-2) |
+
+
+| **Stickman Apple Shooter** | [Detail](https://www.amazon.com/DayDreamz-Studio-Stickman-Apple-Shooter/dp/B0756VV9ZB) | **Dragon TrialsDragon Trials** | 
 
 
  ### **Ace Games – Jr. Game Developer | Hyderabad**  
