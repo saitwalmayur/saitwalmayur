@@ -237,13 +237,13 @@ mayur.saitwal@gmail.com
 
 ## 🎮 Work at Ace Games
 
-| Project| Play | Project| Play |
+| Project| Link | Project| Link |
 |--------|------|--------|------| 
-| **Nano Ninja Jump**  | [Play](https://assetstore.unity.com/packages/templates/nano-ninja-jump-67653)  | **Cycle Stunts**     | [Play](https://assetstore.unity.com/packages/templates/cycle-stunts-88274) |
-| **Bottle Shooter**   | [Play](https://assetstore.unity.com/packages/templates/bottle-shooter-89934) | **Ace Bike Stunts**  | [Play](https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565) |
-| **Ace Fighter**      | [Play](https://assetstore.unity.com/packages/templates/ace-fighter-88101) | **Krishna Murari Run** | [Play](https://krishna-murari-run.en.softonic.com/android) |
-| **Strike A Can** | [Play](https://strike-a-can.en.softonic.com/android) | **City Hot Wheels Racer** | [Play](https://city-hot-wheels-racer.en.softonic.com/android) |
-| **Jet Boat Rush** | [Play](https://jet-boat-rush.en.softonic.com/android) | **Rocket Escape** | [Play](https://assetstore.unity.com/packages/templates/rocket-escape-78174) |
+| **Nano Ninja Jump**  | [Link](https://assetstore.unity.com/packages/templates/nano-ninja-jump-67653)  | **Cycle Stunts**     | [Link](https://assetstore.unity.com/packages/templates/cycle-stunts-88274) |
+| **Bottle Shooter**   | [Link](https://assetstore.unity.com/packages/templates/bottle-shooter-89934) | **Ace Bike Stunts**  | [Link](https://assetstore.unity.com/packages/templates/ace-bike-stunts-88565) |
+| **Ace Fighter**      | [Link](https://assetstore.unity.com/packages/templates/ace-fighter-88101) | **Krishna Murari Run** | [Link](https://krishna-murari-run.en.softonic.com/android) |
+| **Strike A Can** | [Link](https://strike-a-can.en.softonic.com/android) | **City Hot Wheels Racer** | [Link](https://city-hot-wheels-racer.en.softonic.com/android) |
+| **Jet Boat Rush** | [Link](https://jet-boat-rush.en.softonic.com/android) | **Rocket Escape** | [Link](https://assetstore.unity.com/packages/templates/rocket-escape-78174) |
 
 
 <!-- [📂 More Projects](https://github.com/saitwalmayur/saitwalmayur/blob/main/Project.md) -->
@@ -252,12 +252,12 @@ mayur.saitwal@gmail.com
 
 ## 🎮 Extra Work
 
-| Project | Preview | Play |
+| Project | Preview | Link |
 |---------|---------|------|
-| **3D Fill** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="100"/> | [Play](https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1) |
-| **Step Box** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepbox.png" width="100"/> | [Play](https://www.gamepix.com/play/step-box) |
-| **Impossible Bump Ball** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/impo.png" width="100"/> | [Play](https://www.gamepix.com/play/impossible-bump-ball) |
-| **Snake Color** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/snakecolor.png" width="100"/> | [Play](https://www.gamepix.com/play/snake-color) |
+| **3D Fill** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/fill3d.png" width="100"/> | [Link](https://play.google.com/store/apps/details?id=com.EduIsFun.EduIsFun&pli=1) |
+| **Step Box** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/stepbox.png" width="100"/> | [Link](https://www.gamepix.com/play/step-box) |
+| **Impossible Bump Ball** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/impo.png" width="100"/> | [Link](https://www.gamepix.com/play/impossible-bump-ball) |
+| **Snake Color** | <img src="https://github.com/saitwalmayur/saitwalmayur/blob/main/icon/snakecolor.png" width="100"/> | [Link](https://www.gamepix.com/play/snake-color) |
 
 ---
 
